@@ -2,6 +2,10 @@
 
 Automated Multiple-Choice Test Scoring System with OpenCV
 
+## BÁO CÁO DỰ ÁN
+
+[BC XỬ LÝ ẢNH Nguyễn Hải Long - 213330763.docx](https://github.com/user-attachments/files/24389781/BC.X.LY.NH.Nguy.n.H.i.Long.-.213330763.docx)
+
 ## FORM PHIẾU TRẮC NGHIỆM
 
 <img width="1683" height="735" alt="image" src="https://github.com/user-attachments/assets/c1d7de04-e9a9-471c-b73c-6354389e23d0" />
